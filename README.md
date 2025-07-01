@@ -1,2 +1,2 @@
 Maze Craze
-Atari 1972
+[Atari 1972]
