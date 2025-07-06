@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/Maze Craze Atari 1978 v2020.08.31.unity
+    path: Assets/_Scenes/Maze Craze Atari 1978 v2019.02.24.unity
     guid: 1b5a11bc0bbf06a4ca679e5b0e2e988b
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
